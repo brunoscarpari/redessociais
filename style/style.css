@@ -14,9 +14,10 @@ html, body{
 main{
     height: 100vh;
     position: relative
+    background
 }
 
-section#telefone{
+section#phone{
     height: 627px;
     width: 311px;
     position: absolute;

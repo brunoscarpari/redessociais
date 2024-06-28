@@ -12,9 +12,10 @@ html, body{
 
 }
 main{
+    background-color: blueviolet;
     height: 100vh;
     position: relative
-    background
+    
 }
 
 section#phone{
@@ -23,6 +24,6 @@ section#phone{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
-    background: url('../imagens/frame-iphone.png');
+    transform: translate(-50%, -50%);   
+    background: blue url('../imagens/frame-iphone.png');
 }

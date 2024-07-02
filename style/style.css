@@ -53,3 +53,7 @@ section#buttons img:hover{
     border: 1px solid #d62420;
     transition: border 0.5s;
 }
+img{
+    width: 300px;
+    border-radius: 50px;
+}
